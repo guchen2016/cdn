@@ -1525,6 +1525,10 @@ function() {
                     e.infoPanel.triggle()
                 }
             },
+             {
+                text: 'site name',
+                link: 'https://www.iktv8.com'
+            },
             {
                 text: "CDNBye P2P Engine",
                 link: "https://www.iktv8.com/"
@@ -1946,7 +1950,8 @@ function() {
         });
         var i = {
             "zh-cn": {
-                "CDNBye P2P Engine": "www.iktv8.com 提供技术支持",
+                "site name ": "爱看影院",
+                "CDNBye P2P Engine": "www.iktv8.com",
                 "Danmaku is loading": "弹幕加载中",
                 Top: "顶部",
                 Bottom: "底部",
